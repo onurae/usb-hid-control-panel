@@ -33,5 +33,11 @@
 
 Connect the other ends of the buttons & switches to GND.
 
-### Library
-Download [Arduino Joystick Library](https://github.com/MHeironimus/ArduinoJoystickLibrary) and copy the folder to the Arduino/libraries folder.
+### Uploading
+- Download and install Arduino IDE.
+- Download [Arduino Joystick Library](https://github.com/MHeironimus/ArduinoJoystickLibrary) and copy the folder to the Arduino/libraries folder.
+- Connect the board using the USB cable.
+- Open the PanelHID.ino file with Arduino IDE.
+- Select the board under the Tools menu.
+- Choose correct serial port for the board.
+- Click the Upload button.
